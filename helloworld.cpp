@@ -4,7 +4,7 @@ int main()
 {
     cout<<"Hello world"<<endl;
     int i=0;
-    cout<<"nhap vao tuoi cua ban:";
+    cout<<"khoi dau thuan loi";
     cin>> i;
     cout<<i;
     system("pause");
